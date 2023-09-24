@@ -98,5 +98,11 @@
         margin: 0 10px;
       }
     }
+  
+    @media (max-width: 768px) {
+      .Redes li {
+        margin: 0 5px; 
+      }
+    }
   }
   
